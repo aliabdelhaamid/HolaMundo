@@ -1,0 +1,1 @@
+print("Aell aço es molt fàcil")
